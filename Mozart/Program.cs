@@ -39,7 +39,6 @@ namespace Mozart
                 Console.WriteLine(trioFile);
                 //test
             }
-
         }
     }
 }
