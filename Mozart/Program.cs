@@ -37,7 +37,6 @@ namespace Mozart
                 string trioFile = @"Wave\Wave\T" + trios[tdice, throughput] + ".wav";
                 Console.WriteLine(files);
                 Console.WriteLine(trioFile);
-                //test
             }
         }
     }
